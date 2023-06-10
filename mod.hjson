@@ -1,0 +1,12 @@
+#!REPO "picture-guy/CalculatorUI"
+#!VERSION 1.1
+#!BRANCH "master"
+
+name: "calculus"
+description: "Gives You A Calculator, Can Be Closed And Open"
+author: "[stat]Picture [yellow]Guy"
+minGameVersion: "136"
+version: "1.1"
+
+main: "com.github.picture-guy."
+hidden: true
